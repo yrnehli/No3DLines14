@@ -1,7 +1,7 @@
 Package: xyz.henryli17.no3dlines14
 Name: No3DLines14
 Depends: mobilesubstrate, firmware (>= 14.0)
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Remove the lines from 3D Touch menus in iOS 14.
 Maintainer: Henry Li
